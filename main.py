@@ -170,6 +170,7 @@ class Phone:
 
         print("bucket sort")
 
+        print("index sort")
 
 
         window.resizable(False, False)
