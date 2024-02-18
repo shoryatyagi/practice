@@ -159,6 +159,7 @@ class Phone:
         # google_url
         map_widget.set_tile_server('https://mt0.google.com/vt/lyrs=m&hl=en&x={x}&y={y}&z={z}&s=Ga", max_zoom=20')
         print("run successfully")
+        print("quicksort")
 
         window.resizable(False, False)
         window.mainloop()
