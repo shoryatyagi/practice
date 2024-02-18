@@ -165,7 +165,12 @@ class Phone:
         print("quicksort")
 
         print("merge sort")
+
         print("tree sort")
+
+        print("bucket sort")
+
+
 
         window.resizable(False, False)
         window.mainloop()
